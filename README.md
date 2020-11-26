@@ -22,6 +22,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the link: https://github.com/Tasheka/Positioning-and-Floating-Elements-Project/issues
 
-Show your support
+Show your support:
 Give a star if you like this project!
 
